@@ -1,4 +1,5 @@
 Security System
+
 This project is a simple security system built using infrared and ultrasonic sensors to trigger an alarm (buzzer, LED, and LCD).
 
 Features:
