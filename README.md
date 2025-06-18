@@ -7,7 +7,7 @@ Clock System: Simulates time from 00:00 (midnight) to 23:00, advancing by 1 seco
 
 Ultrasonic Sensor: Active between 9:00 AM and 8:00 PM. Triggers the alarm if an object is detected within 150 units.
 
-Infrared Sensor: Active outside the 9:00 AM–8:00 PM window (i.e., at night). Triggers the alarm when motion is detected.
+Infrared Sensor: Active outside the 9:00 AM–8:00 PM window (i.e., during office hours). Triggers the alarm when motion is detected.
 
 Components Used:
 - Ultrasonic Distance Sensor(4-pin)
