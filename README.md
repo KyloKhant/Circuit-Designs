@@ -9,8 +9,8 @@ Infrared Sensor: Active outside the 9:00 AM–8:00 PM window (i.e., at night). T
 
 Components Used:
 - Ultrasonic Distance Sensor(4-pin)
--Infrared Motion Sensor
--Buzzer
--LEDs 
--LCD Display (16x2 I2C)
+- Infrared Motion Sensor
+- Buzzer
+- LEDs 
+- LCD Display (16x2 I2C)
 - 7 segment Clock Display
