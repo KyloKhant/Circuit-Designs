@@ -16,3 +16,5 @@ Components Used:
 - LEDs 
 - LCD Display (16x2 I2C)
 - 7 segment Clock Display
+
+[Simulation](https://www.tinkercad.com/things/e3pBaPxVtUN-securitysystem/editel?returnTo=%2Fthings%2Fe3pBaPxVtUN-securitysystem)
